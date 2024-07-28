@@ -21,10 +21,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8
 #EXTINF:-1 ,Fitness Plus plus
 https://streamer103.neterra.tv/wness/wness_SD.m3u8
-#EXTINF:-1 ,Colors HD
-http://103.120.172.74:1070
-#EXTINF:-1 ,Colors HD Stream3
-https://www.bdtubelive.xyz/new.m3u8?id=109
+#EXTINF:-1,Colors.in,COLORS. 
+http://108.61.156.252/hls/colors.m3u8.
 #EXTINF:-1 ,STAR Plus HD
 http://103.120.172.74:4300
 #EXTINF:-1 ,SONY TV
